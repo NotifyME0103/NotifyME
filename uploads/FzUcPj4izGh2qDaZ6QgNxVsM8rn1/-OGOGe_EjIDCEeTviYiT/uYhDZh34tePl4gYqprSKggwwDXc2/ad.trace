@@ -1,0 +1,405 @@
+ * * * * * * * * * * * * * * * * * *
+   info 2024-12-30 00:53:55.637      front  14880  11288                                  main - * AnyDesk Windows Startup *
+   info 2024-12-30 00:53:55.637      front  14880  11288                                  main - * Version 7.0.14 (release/win_7.0.x 5cf8483107cd52198359a9504e0641fbe8cc59b3)
+   info 2024-12-30 00:53:55.637      front  14880  11288                                  main - * Custom Client (no ID)
+   info 2024-12-30 00:53:55.637      front  14880  11288                                  main - * Checksum 1b8e6bc34e8cd533b5d7281935ff2761
+   info 2024-12-30 00:53:55.637      front  14880  11288                                  main - * Build 20220808112342
+   info 2024-12-30 00:53:55.637      front  14880  11288                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2024-12-30 00:53:55.637      front  14880  11288                                  main - 
+   info 2024-12-30 00:53:55.637      front  14880  11288                                  main - Process started at 2024-12-30. PID 14880. OS is Windows 10 (64 bit)
+   info 2024-12-30 00:53:55.637      front  14880  11288                         impl_selector - using sse2 (intrinsics)
+   info 2024-12-30 00:53:55.637      front  14880  11288                                  main - Install status: not installed (<4)
+   info 2024-12-30 00:53:55.637      front  14880  11288          base.data.config_application - Adding GPO defaults layer.
+   info 2024-12-30 00:53:55.637      front  14880  11288          base.data.config_application - Adding GPO overrides layer.
+   info 2024-12-30 00:53:55.684      front  14880  11288                           gui.gui_app - DPI scaling: 1.25 / 1.25
+   info 2024-12-30 00:53:55.684      front  14880  11288                           gui.gui_app - Using high-resolution bitmaps.
+   info 2024-12-30 00:53:55.700      front  14880  11288                       base.signal.hub - 8 threads.
+warning 2024-12-30 00:53:55.715      front  14880  11288                         app.user_info - Could not update user image (app.bitmap The system cannot find the path specified. (0x80070003)). Defaulting.
+warning 2024-12-30 00:53:55.715      front  14880  11288                          account_info - Could not read account info from config.
+   info 2024-12-30 00:53:55.715      front  14880  11288                            app.roster - Updating the jump list
+   info 2024-12-30 00:53:55.731      front  14880  11288                  os_win.jump_list_mgr - 0 items found
+   info 2024-12-30 00:53:55.746      front  14880  11288                          wgf.msg_loop - Waiting for events.
+   info 2024-12-30 00:53:55.746      front  14880  16536                      win_app.frontend - Frontend startup (not elevated).
+   info 2024-12-30 00:53:55.746      front  14880  16536                   fiber.ipc_namespace - Global: no
+   info 2024-12-30 00:53:55.746      front  14880  16536                      win_app.frontend - Logging the frontend in.
+   info 2024-12-30 00:53:55.746      front  14880  16536             app.named_process_starter - Spawning local service.
+warning 2024-12-30 00:53:55.762      front  14880  16536             app.named_process_starter - Starting control process in session 15.
+warning 2024-12-30 00:53:55.762      front  14880  16536             app.named_process_starter - Could not query the user token (1314).
+   info 2024-12-30 00:53:55.762      front  14880  16536             app.named_process_starter - Spawning process directly in current session 15.
+   info 2024-12-30 00:53:55.840      front  14880  11288                        gui.mainwindow - Main window created (standard mode).
+   info 2024-12-30 00:53:55.887      front  14880  11288                            app.roster - Updating the jump list
+   info 2024-12-30 00:53:55.887      front  14880  11288                  os_win.jump_list_mgr - 0 items found
+   info 2024-12-30 00:53:55.981      front  14880  11288                      win_app.frontend - Disallowing Google Chrome offer (no permission: 0x00000000 & 0x00000001).
+ * * * * * * * * * * * * * * * * * *
+   info 2024-12-30 00:53:56.309      lctrl   7860  11020                                  main - * AnyDesk Windows Startup *
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648                                  main - * AnyDesk Windows Startup *
+   info 2024-12-30 00:53:56.309      lctrl   7860  11020                                  main - * Version 7.0.14 (release/win_7.0.x 5cf8483107cd52198359a9504e0641fbe8cc59b3)
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648                                  main - * Version 7.0.14 (release/win_7.0.x 5cf8483107cd52198359a9504e0641fbe8cc59b3)
+   info 2024-12-30 00:53:56.309      lctrl   7860  11020                                  main - * Custom Client (no ID)
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648                                  main - * Custom Client (no ID)
+   info 2024-12-30 00:53:56.309      lctrl   7860  11020                                  main - 
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648                                  main - 
+   info 2024-12-30 00:53:56.309      lctrl   7860  11020                                  main - Process started at 2024-12-30. PID 7860. OS is Windows 10 (64 bit)
+   info 2024-12-30 00:53:56.309      lctrl   7860  11020                         impl_selector - using sse2 (intrinsics)
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648                                  main - Process started at 2024-12-30. PID 4696. OS is Windows 10 (64 bit)
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648                         impl_selector - using sse2 (intrinsics)
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648          base.data.config_application - Adding GPO defaults layer.
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648          base.data.config_application - Adding GPO overrides layer.
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648            permission_profile_manager - Migrating V0 -> V1
+   info 2024-12-30 00:53:56.309      lctrl   7860  11020          base.data.config_application - Adding GPO defaults layer.
+   info 2024-12-30 00:53:56.309      lctrl   7860  11020          base.data.config_application - Adding GPO overrides layer.
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648                       fiber.scheduler - Spawning root fiber 1.
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648                       fiber.scheduler - Scheduler started.
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648    1                      app.service - Opening the IPC namespace.
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648    1              fiber.ipc_namespace - Global: no
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648    1                      app.service - Logging into the IPC namespace.
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648    1                      app.service - Starting to supervise the IPC namespace.
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648    1                      app.service - Starting the connector.
+   info 2024-12-30 00:53:56.309       lsvc   4696   2648    1            anynet.connection_mgr - Generating a new certificate and key.
+   info 2024-12-30 00:53:56.340      lctrl   7860  11020                           gui.gui_app - DPI scaling: 1.25 / 1.25
+   info 2024-12-30 00:53:56.340      lctrl   7860  11020                           gui.gui_app - Using high-resolution bitmaps.
+   info 2024-12-30 00:53:56.356      lctrl   7860  11020                       base.signal.hub - 1 threads.
+   info 2024-12-30 00:53:56.356      lctrl   7860  11020                       clipbrd.capture - Empty format set.
+   info 2024-12-30 00:53:56.356      lctrl   7860  11020                    app.tunnel_ft_comp - Ready.
+   info 2024-12-30 00:53:56.371      lctrl   7860  11020                          wgf.msg_loop - Waiting for events.
+   info 2024-12-30 00:53:56.371      lctrl   7860   9804                        ad_app.control - Control startup.
+   info 2024-12-30 00:53:56.371      lctrl   7860   9804                        ad_app.control - Connecting to the service.
+   info 2024-12-30 00:53:56.371      lctrl   7860   9804                        ad_app.control - Starting the printer_worker.
+   info 2024-12-30 00:53:56.371      lctrl   7860   9804                        ad_app.control - Starting reg config watcher.
+   info 2024-12-30 00:53:56.371      lctrl   7860   9308                    app.printer_worker - Waiting for commands.
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1                  fiber.scheduler - Spawning root fiber 2.
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1                  fiber.scheduler - Spawning root fiber 3.
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1                      app.service - Setting up the listen sockets.
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1                  fiber.scheduler - Spawning root fiber 4.
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1                      app.service - Service startup completed.
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1                   ad.wol_service - Starting WOL service.
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1                  fiber.scheduler - Spawning child fiber 5 (parent 1).
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1                  fiber.scheduler - Spawning child fiber 6 (parent 1).
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1                      app.service - Waiting for messages.
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1                      app.service - Process start: 14880 (frontend).
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1           anynet.relay_connector - Short timeouts enabled.
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    1                      app.service - Process start: 7860 (control:15).
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    2            anynet.connection_mgr - Starting connection manager fiber.
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    3           anynet.main_relay_conn - Starting main relay connection.
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    3                  fiber.scheduler - Spawning child fiber 7 (parent 3).
+   info 2024-12-30 00:53:57.184       lsvc   4696   2648    4                anynet.any_socket - Listen fiber started.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    5                      anynet.conn - Request before connect. Queueing.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    7           anynet.relay_connector - Relay connector started.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    7           anynet.relay_connector - Start proxy search.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    1                      app.service - New IPC connection.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    1                  fiber.scheduler - Spawning child fiber 8 (parent 1).
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    1                      app.service - New IPC connection.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    1                  fiber.scheduler - Spawning child fiber 9 (parent 1).
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Creating an IPC accept socket.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Connected to 14880 (frontend).
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    9                      app.service - Creating an IPC accept socket.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    9                      app.service - Connected to 7860 (control:15).
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Process login detected.
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+warning 2024-12-30 00:53:57.199       lsvc   4696   2648    8                      app.service - Unexpected message. packet_msg_t
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    8                  fiber.scheduler - Spawning child fiber 10 (parent 8).
+   info 2024-12-30 00:53:57.199      front  14880  16536                      win_app.frontend - Received process login response.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    9                      app.service - Process login detected.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    9                      app.service - Using existing control (7860).
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    9                  fiber.scheduler - Spawning child fiber 11 (parent 9).
+   info 2024-12-30 00:53:57.199      lctrl   7860  17380                        ad_app.control - Session count: (0, 0)
+  error 2024-12-30 00:53:57.199      front  14880  16536                    os_win.fs_sentinel - Failed to monitor 'C:\Users\Public\AccountPictures\S-1-5-21-841556176-357374781-482975927-1001' (2).
+   info 2024-12-30 00:53:57.199      front  14880  16536                      win_app.frontend - Requesting Google Chrome compatibility check.
+warning 2024-12-30 00:53:57.199      front  14880  16536                         app.user_info - Could not update user image (app.bitmap The system cannot find the path specified. (0x80070003)). Defaulting.
+   info 2024-12-30 00:53:57.199      lctrl   7860   9804                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    1                      app.service - Received connectivity update (3).
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    3           anynet.main_relay_conn - Reconnecting due to connectivity change (3).
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648                       fiber.scheduler - Fiber 3 requested quit of fiber 7.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    7                      fiber.fiber - Received quit.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648                       fiber.scheduler - Fiber 7 terminated.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648    3                  fiber.scheduler - Spawning child fiber 12 (parent 3).
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648   12           anynet.relay_connector - Relay connector started.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648   12           anynet.relay_connector - Start proxy search.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648   12                base.proxy_finder - Skipping search. Next search in 60000 ms.
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648   12           anynet.relay_connector - Connecting to relay boot.net.anydesk.com (1/1)
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648   12           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648   12           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-12-30 00:53:57.199       lsvc   4696   2648   12           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+warning 2024-12-30 00:53:57.199      lctrl   7860   9804                        ad_app.control - Could not update account image (app.bitmap The system cannot find the path specified. (0x80070003)).
+   info 2024-12-30 00:53:57.199      front  14880  16536                      win_app.frontend - Frontend startup complete.
+  error 2024-12-30 00:53:57.215      lctrl   7860   9804                     base.proxy_finder - Proxy resolution failed (00002f94).
+   info 2024-12-30 00:53:57.215      lctrl   7860   9804                        ad_app.control - Control startup finished.
+   info 2024-12-30 00:53:57.230       lsvc   4696   2648   12           anynet.relay_connector - Using IPv4: 57.129.19.1
+   info 2024-12-30 00:53:57.371      lctrl   7860  11020                           ad_app.tray - Created the icon.
+   info 2024-12-30 00:53:57.402      front  14880  18556                     base.monitor_info - Monitors found: 1
+   info 2024-12-30 00:53:57.434       lsvc   4696   2648   12                  fiber.scheduler - Spawning root fiber 13.
+   info 2024-12-30 00:53:57.871       lsvc   4696   2648   12           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2024-12-30 00:53:57.871       lsvc   4696   2648   12                  fiber.scheduler - Spawning root fiber 14.
+   info 2024-12-30 00:53:57.871       lsvc   4696   2648   12                        handshake - Using protocol version 3.
+   info 2024-12-30 00:53:58.152       lsvc   4696   2648                       fiber.scheduler - Fiber 12 requested quit of fiber 14.
+   info 2024-12-30 00:53:58.152       lsvc   4696   2648   14                      fiber.fiber - Received quit.
+   info 2024-12-30 00:53:58.152       lsvc   4696   2648                       fiber.scheduler - Fiber 14 terminated.
+   info 2024-12-30 00:53:58.152       lsvc   4696   2648                       fiber.scheduler - Fiber 12 requested quit of fiber 13.
+   info 2024-12-30 00:53:58.152       lsvc   4696   2648   13                      fiber.fiber - Received quit.
+   info 2024-12-30 00:53:58.152       lsvc   4696   2648                       fiber.scheduler - Fiber 13 terminated.
+   info 2024-12-30 00:53:58.152       lsvc   4696   2648   12           anynet.relay_connector - Connection terminated: anynet_invalid_zone
+   info 2024-12-30 00:53:58.152       lsvc   4696   2648   12           anynet.relay_connector - Received a new server list (10 servers)
+   info 2024-12-30 00:53:58.168       lsvc   4696   2648   12           anynet.relay_connector - Connecting to relay relay-6649a05d.net.anydesk.com (1/10)
+   info 2024-12-30 00:53:58.168       lsvc   4696   2648   12           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-12-30 00:53:58.168       lsvc   4696   2648   12           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-12-30 00:53:58.168       lsvc   4696   2648   12           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2024-12-30 00:53:58.168       lsvc   4696   2648   12           anynet.relay_connector - Using IPv4: 143.244.33.53
+   info 2024-12-30 00:53:58.183       lsvc   4696   2648   12                  fiber.scheduler - Spawning root fiber 15.
+   info 2024-12-30 00:53:58.262       lsvc   4696   2648   12           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2024-12-30 00:53:58.262       lsvc   4696   2648   12                  fiber.scheduler - Spawning root fiber 16.
+   info 2024-12-30 00:53:58.262       lsvc   4696   2648   12                        handshake - Using protocol version 3.
+   info 2024-12-30 00:53:58.605       lsvc   4696   2648   12           anynet.relay_connector - Connection established.
+   info 2024-12-30 00:53:58.605       lsvc   4696   2648   12           anynet.relay_connector - Relay connector stopped.
+   info 2024-12-30 00:53:58.605       lsvc   4696   2648                       fiber.scheduler - Fiber 12 terminated.
+   info 2024-12-30 00:53:58.621       lsvc   4696   2648    3           anynet.main_relay_conn - Network ID: main
+   info 2024-12-30 00:53:58.621       lsvc   4696   2648    3                anynet.relay_conn - External address: 121.121.200.175:57714.
+   info 2024-12-30 00:53:58.621       lsvc   4696   2648    3           anynet.main_relay_conn - Reporting system information.
+   info 2024-12-30 00:53:58.621       lsvc   4696   2648    3           anynet.main_relay_conn - Main relay ID: 6649a05d
+   info 2024-12-30 00:53:58.636       lsvc   4696   2648    3           anynet.main_relay_conn - Detected 2 new networks.
+   info 2024-12-30 00:53:58.636       lsvc   4696   2648    2            anynet.connection_mgr - Main relay connection established.
+   info 2024-12-30 00:53:58.636       lsvc   4696   2648    2            anynet.connection_mgr - New user data. Client-ID: 1175713139.
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+  error 2024-12-30 00:53:58.636       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(47)
+warning 2024-12-30 00:53:58.652      front  14880  16704                         app.user_info - Could not update user image (app.bitmap The system cannot find the path specified. (0x80070003)). Defaulting.
+   info 2024-12-30 00:53:58.652      front  14880  16704                   anymessage.provider - CID changed. Requesting messages update.
+   info 2024-12-30 00:53:58.652      front  14880  16704                   anymessage.provider - License changed. Requesting messages update.
+  error 2024-12-30 00:53:58.855       lsvc   4696   2648    3                      anynet.conn - Could not send token - packet-type(60)
+   info 2024-12-30 00:53:59.121       lsvc   4696   2648    8                            gcpsa - Downloading gcapi.dll.
+  error 2024-12-30 00:53:59.136       lsvc   4696   2648    8                 win_app.dir_file - Could not open file (2).
+   info 2024-12-30 00:53:59.136       lsvc   4696   2648    8                  fiber.scheduler - Spawning child fiber 17 (parent 8).
+   info 2024-12-30 00:53:59.136      lctrl   7860  17380                        ad_app.control - Received GCP response (10, 1, 0, 0).
+   info 2024-12-30 00:53:59.292       lsvc   4696   2648                       fiber.scheduler - Fiber 17 terminated.
+   info 2024-12-30 00:53:59.292      lctrl   7860  17380                        ad_app.control - Received request to check Google Chrome compatibility.
+   info 2024-12-30 00:53:59.339       lsvc   4696   2648    9                  fiber.scheduler - Spawning child fiber 18 (parent 9).
+   info 2024-12-30 00:53:59.339      front  14880  11288                      win_app.frontend - Disallowing Google Chrome offer (negative check result).
+   info 2024-12-30 00:54:00.417       lsvc   4696   2648                       fiber.scheduler - Fiber 18 terminated.
+   info 2024-12-30 00:54:18.168      front  14880  13844                 installation.launcher - Starting installation of AnyDesk.
+   info 2024-12-30 00:54:18.168      front  14880  13844                      os_win.start_uac - Opening UAC dialog.
+   info 2024-12-30 00:54:18.168      front  14880  13844                      os_win.start_uac - line: "C:\Users\CSH\Desktop\Task\AnyDesk\AnyDesk.exe" --install "C:\Program Files (x86)\AnyDesk"  --start-with-win --create-shortcuts --create-taskbar-icon --create-desktop-icon --install-driver:mirror --install-driver:printer --update-disabled --svc-conf "C:\Users\CSH\AppData\Roaming\AnyDesk\service.conf"  --sys-conf "C:\Users\CSH\AppData\Roaming\AnyDesk\system.conf" 
+ * * * * * * * * * * * * * * * * * *
+   info 2024-12-30 00:54:19.685  installer   6496   2712                                  main - * AnyDesk Windows Startup *
+   info 2024-12-30 00:54:19.685  installer   6496   2712                                  main - * Version 7.0.14 (release/win_7.0.x 5cf8483107cd52198359a9504e0641fbe8cc59b3)
+   info 2024-12-30 00:54:19.685  installer   6496   2712                                  main - * Custom Client (no ID)
+   info 2024-12-30 00:54:19.685  installer   6496   2712                                  main - 
+   info 2024-12-30 00:54:19.685  installer   6496   2712                                  main - Process started at 2024-12-30. PID 6496. OS is Windows 10 (64 bit)
+   info 2024-12-30 00:54:19.685  installer   6496   2712                         impl_selector - using sse2 (intrinsics)
+warning 2024-12-30 00:54:20.669  installer   6496   2712                            terminator - Found a hanging anydesk process. Killing.
+   info 2024-12-30 00:54:20.669  installer   6496   2712                            terminator - Killing pid 14880
+   info 2024-12-30 00:54:20.716  installer   6496   2712                            terminator - Terminated 14880.
+   info 2024-12-30 00:54:20.716  installer   6496   2712                            terminator - Killing pid 4696
+warning 2024-12-30 00:54:20.716       lsvc   4696   2648                   fiber.ipc_namespace - Zombie process detected (14880). Fixing the state.
+   info 2024-12-30 00:54:20.716       lsvc   4696   2648    1                      app.service - Process stop: 14880.
+  error 2024-12-30 00:54:20.731      lctrl   7860  17380                        ad_app.control - Service connection lost.
+   info 2024-12-30 00:54:20.731  installer   6496   2712                            terminator - Terminated 4696.
+   info 2024-12-30 00:54:20.731      lctrl   7860   9804                        ad_app.control - Disconnect service.
+   info 2024-12-30 00:54:20.731  installer   6496   2712                            terminator - Killing pid 7860
+   info 2024-12-30 00:54:20.731  installer   6496   2712                            terminator - Terminated 7860.
+warning 2024-12-30 00:54:20.731  installer   6496   2712                            terminator - All clear!
+   info 2024-12-30 00:54:20.731  installer   6496   2712                   installer.installer - Installing AnyDesk on this computer.
+   info 2024-12-30 00:54:20.731  installer   6496   2712            installation.svc_installer - Stopping the service.
+  error 2024-12-30 00:54:20.731  installer   6496   2712            installation.svc_installer - Could not get a handle to the service (1060).
+   info 2024-12-30 00:54:20.731  installer   6496   2712            installation.svc_installer - Stopping the volatile service.
+  error 2024-12-30 00:54:20.731  installer   6496   2712            installation.svc_installer - Could not get a handle to the service (1060).
+   info 2024-12-30 00:54:20.747  installer   6496   2712            installation.svc_installer - Uninstalling the service.
+  error 2024-12-30 00:54:20.747  installer   6496   2712            installation.svc_installer - Could not get a handle to the service (1060).
+   info 2024-12-30 00:54:20.747  installer   6496   2712            installation.svc_installer - Installing the service.
+   info 2024-12-30 00:54:20.747  installer   6496   2712            installation.svc_installer - The service has been installed ("C:\Program Files (x86)\AnyDesk\AnyDesk.exe" --service).
+   info 2024-12-30 00:54:20.747  installer   6496   2712                   installer.installer - Copying the settings (new installation).
+   info 2024-12-30 00:54:21.028  installer   6496   2712                   installer.installer - Install status: not installed (<4)
+   info 2024-12-30 00:54:21.028  installer   6496   2712                   installer.installer - Updating configuration for auto-update (0, 1).
+   info 2024-12-30 00:54:21.028  installer   6496   2712            installation.svc_installer - Starting the service.
+   info 2024-12-30 00:54:21.544  installer   6496   2712            installation.svc_installer - Service started.
+   info 2024-12-30 00:54:21.544  installer   6496   2712            installation.svc_installer - Waiting for service.
+   info 2024-12-30 00:54:21.653  installer   6496   2712            installation.svc_installer - The service is running.
+   info 2024-12-30 00:54:21.700  installer   6496   2712                  installation.printer - Creating directory 'C:\Users\CSH\AppData\Roaming\AnyDesk\printer_driver\'.
+   info 2024-12-30 00:54:21.872  installer   6496   2712                  installation.printer - Executing 'rundll32 printui.dll, PrintUIEntry /if /b "AnyDesk Printer" /f "C:\Users\CSH\AppData\Roaming\AnyDesk\printer_driver\AnyDeskPrintDriver.inf" /r "AD_Port" /m "AnyDesk v4 Printer Driver"'.
+   info 2024-12-30 00:54:21.950  installer   6496   2712                   installer.installer - Installation finished.
+   info 2024-12-30 00:54:21.950  installer   6496   2712                                  main - Terminated.
+ * * * * * * * * * * * * * * * * * *
+   info 2024-12-30 00:54:22.215       ctrl  18692  19192                                  main - * AnyDesk Windows Startup *
+   info 2024-12-30 00:54:22.215       ctrl  18692  19192                                  main - * Version 7.0.14 (release/win_7.0.x 5cf8483107cd52198359a9504e0641fbe8cc59b3)
+   info 2024-12-30 00:54:22.215       ctrl  18692  19192                                  main - * Custom Client (no ID)
+   info 2024-12-30 00:54:22.215       ctrl  18692  19192                                  main - 
+   info 2024-12-30 00:54:22.215       ctrl  18692  19192                                  main - Process started at 2024-12-30. PID 18692. OS is Windows 10 (64 bit)
+   info 2024-12-30 00:54:22.215       ctrl  18692  19192                         impl_selector - using sse2 (intrinsics)
+   info 2024-12-30 00:54:22.215       ctrl  18692  19192          base.data.config_application - Adding GPO defaults layer.
+   info 2024-12-30 00:54:22.215       ctrl  18692  19192          base.data.config_application - Adding GPO overrides layer.
+   info 2024-12-30 00:54:22.282       ctrl  18692  19192                           gui.gui_app - DPI scaling: 1.25 / 1.25
+   info 2024-12-30 00:54:22.282       ctrl  18692  19192                           gui.gui_app - Using high-resolution bitmaps.
+   info 2024-12-30 00:54:22.307       ctrl  18692  19192                       base.signal.hub - 1 threads.
+   info 2024-12-30 00:54:22.307       ctrl  18692  19192                       clipbrd.capture - Empty format set.
+   info 2024-12-30 00:54:22.307       ctrl  18692  19192                    app.tunnel_ft_comp - Ready.
+   info 2024-12-30 00:54:22.323       ctrl  18692  19192                          wgf.msg_loop - Waiting for events.
+   info 2024-12-30 00:54:22.323       ctrl  18692   2300                        ad_app.control - Control startup.
+   info 2024-12-30 00:54:22.323       ctrl  18692   2300                        ad_app.control - Connecting to the service.
+   info 2024-12-30 00:54:22.323       ctrl  18692   2300                        ad_app.control - Starting the printer_worker.
+   info 2024-12-30 00:54:22.323       ctrl  18692   2300                        ad_app.control - Starting reg config watcher.
+   info 2024-12-30 00:54:22.323       ctrl  18692   6988                    app.printer_worker - Waiting for commands.
+ * * * * * * * * * * * * * * * * * *
+   info 2024-12-30 00:54:22.479      front   8596  11196                                  main - * AnyDesk Windows Startup *
+   info 2024-12-30 00:54:22.479      front   8596  11196                                  main - * Version 7.0.14 (release/win_7.0.x 5cf8483107cd52198359a9504e0641fbe8cc59b3)
+   info 2024-12-30 00:54:22.479      front   8596  11196                                  main - * Custom Client (no ID)
+   info 2024-12-30 00:54:22.479      front   8596  11196                                  main - * Checksum 1b8e6bc34e8cd533b5d7281935ff2761
+   info 2024-12-30 00:54:22.479      front   8596  11196                                  main - * Build 20220808112342
+   info 2024-12-30 00:54:22.479      front   8596  11196                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2024-12-30 00:54:22.479      front   8596  11196                                  main - 
+   info 2024-12-30 00:54:22.479      front   8596  11196                                  main - Process started at 2024-12-30. PID 8596. OS is Windows 10 (64 bit)
+   info 2024-12-30 00:54:22.479      front   8596  11196                         impl_selector - using sse2 (intrinsics)
+   info 2024-12-30 00:54:22.479      front   8596  11196                                  main - Install status: same version (>=4)
+   info 2024-12-30 00:54:22.479      front   8596  11196          base.data.config_application - Adding GPO defaults layer.
+   info 2024-12-30 00:54:22.479      front   8596  11196          base.data.config_application - Adding GPO overrides layer.
+   info 2024-12-30 00:54:22.510      front   8596  11196                           gui.gui_app - DPI scaling: 1.25 / 1.25
+   info 2024-12-30 00:54:22.510      front   8596  11196                           gui.gui_app - Using high-resolution bitmaps.
+   info 2024-12-30 00:54:22.526      front   8596  11196                       base.signal.hub - 8 threads.
+warning 2024-12-30 00:54:22.541      front   8596  11196                         app.user_info - Could not update user image (app.bitmap The system cannot find the path specified. (0x80070003)). Defaulting.
+warning 2024-12-30 00:54:22.541      front   8596  11196                          account_info - Could not read account info from config.
+   info 2024-12-30 00:54:22.541      front   8596  11196                            app.roster - Updating the jump list
+   info 2024-12-30 00:54:22.557      front   8596  11196                  os_win.jump_list_mgr - 0 items found
+   info 2024-12-30 00:54:22.588      front   8596  11196                          wgf.msg_loop - Waiting for events.
+   info 2024-12-30 00:54:22.588      front   8596  15112                      win_app.frontend - Frontend startup (not elevated).
+   info 2024-12-30 00:54:22.588      front   8596  15112                      win_app.frontend - Logging the frontend in.
+   info 2024-12-30 00:54:22.588      front   8596  15112             app.named_process_starter - Using existing control (18692).
+warning 2024-12-30 00:54:22.588      front   8596  15112                         app.user_info - Could not update user image (app.bitmap The system cannot find the path specified. (0x80070003)). Defaulting.
+   info 2024-12-30 00:54:22.635      front   8596  11196                        gui.mainwindow - Main window created (standard mode).
+   info 2024-12-30 00:54:22.713      front   8596  11196                      win_app.frontend - Disallowing Google Chrome offer (no permission: 0x00000000 & 0x00000001).
+   info 2024-12-30 00:54:22.870       ctrl  18692  12068                        ad_app.control - Session count: (0, 0)
+   info 2024-12-30 00:54:22.870      front   8596  15112                      win_app.frontend - Received process login response.
+   info 2024-12-30 00:54:22.885       ctrl  18692   2300                       clipbrd.capture - Setting new capture formats: text files.
+warning 2024-12-30 00:54:22.885       ctrl  18692   2300                        ad_app.control - Could not update account image (app.bitmap The system cannot find the path specified. (0x80070003)).
+  error 2024-12-30 00:54:22.901       ctrl  18692   2300                     base.proxy_finder - Proxy resolution failed (00002f94).
+   info 2024-12-30 00:54:22.901       ctrl  18692   2300                        ad_app.control - Control startup finished.
+   info 2024-12-30 00:54:23.323       ctrl  18692  19192                           ad_app.tray - Created the icon.
+  error 2024-12-30 00:54:23.885      front   8596  15112                    os_win.fs_sentinel - Failed to monitor 'C:\Users\Public\AccountPictures\S-1-5-21-841556176-357374781-482975927-1001' (2).
+   info 2024-12-30 00:54:23.885      front   8596  15112                      win_app.frontend - Requesting Google Chrome compatibility check.
+warning 2024-12-30 00:54:23.885      front   8596  15112                         app.user_info - Could not update user image (app.bitmap The system cannot find the path specified. (0x80070003)). Defaulting.
+   info 2024-12-30 00:54:23.885      front   8596  15112                      win_app.frontend - Frontend startup complete.
+   info 2024-12-30 00:54:24.025      front   8596   7880                     base.monitor_info - Monitors found: 1
+   info 2024-12-30 00:54:24.322       ctrl  18692  12068                        ad_app.control - Received GCP response (10, 1, 0, 0).
+   info 2024-12-30 00:54:24.338       ctrl  18692  12068                        ad_app.control - Received request to check Google Chrome compatibility.
+   info 2024-12-30 00:54:24.400      front   8596  11196                      win_app.frontend - Disallowing Google Chrome offer (negative check result).
+   info 2024-12-30 00:54:24.400      front   8596  11196                      win_app.frontend - Disallowing Google Chrome offer (negative check result).
+   info 2024-12-30 00:54:25.790      front   8596  11196                      win_app.frontend - Disallowing Google Chrome offer (negative check result).
+   info 2024-12-30 00:54:45.628      front   8596  11196                      win_app.frontend - Sending a connection request for address 211742098.
+warning 2024-12-30 00:54:45.628      front   8596  11196                         app.user_info - Could not update user image (app.bitmap The system cannot find the path specified. (0x80070003)). Defaulting.
+   info 2024-12-30 00:54:45.643      front   8596  11196                   anymessage.provider - Stored message is invalid (100).
+   info 2024-12-30 00:54:45.643      front   8596  11196                     gui.display_panel - Showing the connect dialog.
+   info 2024-12-30 00:54:45.659      front   8596  15112                  app.frontend_session - Requesting session.
+   info 2024-12-30 00:54:45.659      front   8596  11196                      win_app.frontend - Session count: 1
+   info 2024-12-30 00:54:47.987      front   8596  13780                  app.frontend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, report_kbd_focus, reset_vp_resolution, string_input, quality_adaptive, clipboard_split
+   info 2024-12-30 00:54:47.987      front   8596  12076                  app.frontend_session - Received authentication request.
+   info 2024-12-30 00:54:47.987      front   8596  13780                  app.frontend_session - Remote OS: Windows
+   info 2024-12-30 00:54:47.987      front   8596  13780                  app.frontend_session - Connection flags: direct paid 3 4 
+   info 2024-12-30 00:54:47.987      front   8596  13780                  app.frontend_session - Remote version: 7.0.15
+   info 2024-12-30 00:54:47.987      front   8596  11196                     gui.display_panel - Showing the password dialog.
+   info 2024-12-30 00:54:47.987      front   8596  13780                            app.roster - Updating the jump list
+   info 2024-12-30 00:54:48.002      front   8596  13780                  os_win.jump_list_mgr - 0 items found
+   info 2024-12-30 00:54:48.018      front   8596  13780                            app.roster - Updating the jump list
+   info 2024-12-30 00:54:48.018      front   8596  13780                  os_win.jump_list_mgr - 0 items found
+   info 2024-12-30 00:54:59.990      front   8596  11196                     gui.display_panel - Showing the connect dialog.
+   info 2024-12-30 00:55:00.043      front   8596  11196                  app.frontend_session - Answering password request.
+   info 2024-12-30 00:55:00.081      front   8596  18660                  app.frontend_session - Saving the authentication token.
+   info 2024-12-30 00:55:00.081      front   8596  15112                  app.frontend_session - Starting connect session.
+   info 2024-12-30 00:55:00.083      front   8596  15112                          memory_arena - Reserving arena of 256 MB
+   info 2024-12-30 00:55:00.083      front   8596  15112                          memory_arena - Reserving arena of 128 MB
+   info 2024-12-30 00:55:00.084      front   8596  15112             desk_rt.display_component - Startup.
+   info 2024-12-30 00:55:00.094      front   8596  15112               audio.core_audio_render - Initializing Core Audio playback.
+   info 2024-12-30 00:55:01.216      front   8596  15112               audio.core_audio_render - Audio playback initialized (shared). ch=2, bps=32, sps=48000 Hz, bufsize = 48000, flen 1000000 us
+   info 2024-12-30 00:55:01.220      front   8596  15112                  app.frontend_session - Session started.
+   info 2024-12-30 00:55:01.244      front   8596   7880                  app.frontend_session - Keyboard layouts differ (l:en_us != r:unknown). Auto-mode is Translate, user-mode is 0.
+   info 2024-12-30 00:55:01.246      front   8596  12076             desk_rt.display_component - Received monitor info. Monitor count: 1.
+   info 2024-12-30 00:55:01.246      front   8596  18372                  app.frontend_session - Received new remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, report_kbd_focus, reset_vp_resolution, string_input, quality_adaptive, clipboard_split
+   info 2024-12-30 00:55:01.246      front   8596   3212                  app.frontend_session - Received new input permissions: (enabled allowed supported)
+   info 2024-12-30 00:55:01.246      front   8596  16620                  app.frontend_session - Received new permissions to lock account: (allowed supported)
+   info 2024-12-30 00:55:01.246       ctrl  18692  12068                        ad_app.control - Session count: (1, 0)
+   info 2024-12-30 00:55:01.246       ctrl  18692  12068                       clipbrd.capture - Registered for clipboard notifications.
+   info 2024-12-30 00:55:01.246       ctrl  18692  12068                    app.ctrl_clip_comp - Ready.
+   info 2024-12-30 00:55:01.246      front   8596  16620                  app.frontend_session - Received new whiteboard permissions: (allowed supported)
+   info 2024-12-30 00:55:01.247      front   8596  16620                  app.frontend_session - Received new TCP tunneling permissions: (enabled allowed supported)
+   info 2024-12-30 00:55:01.247      front   8596  12456                  app.frontend_session - Received new sas permissions: (allowed supported)
+   info 2024-12-30 00:55:01.247      front   8596  18372                  app.frontend_session - Received new file manager permissions: (enabled allowed supported)
+   info 2024-12-30 00:55:01.247      front   8596  16620                  app.frontend_session - Received new privacy feature permissions: (allowed supported)
+   info 2024-12-30 00:55:01.248      front   8596  16620                  app.frontend_session - Received new permission to restart: (allowed supported)
+   info 2024-12-30 00:55:01.248      front   8596  16620                  app.frontend_session - Received new permission to sysinfo: (enabled allowed supported)
+   info 2024-12-30 00:55:01.248      front   8596  18660                  app.frontend_session - Received new permissions to block input: (allowed supported)
+   info 2024-12-30 00:55:01.248      front   8596  16620                  app.frontend_session - Received new permission to mouse_pointer: (allowed supported)
+   info 2024-12-30 00:55:01.249      front   8596   7880                  app.frontend_session - Received new audio permissions: (enabled forbidden unsupported)
+   info 2024-12-30 00:55:01.249      front   8596  18372                  app.frontend_session - Received new clipboard files permissions: (enabled allowed supported)
+   info 2024-12-30 00:55:01.250      front   8596   3212                  app.frontend_session - Received new record session permissions: (allowed supported)
+   info 2024-12-30 00:55:01.250      front   8596  13780                  app.frontend_session - Received new clipboard permissions: (enabled allowed supported)
+   info 2024-12-30 00:55:01.250      front   8596  12456                  app.frontend_session - Received new VPN permissions: (enabled forbidden unsupported)
+   info 2024-12-30 00:55:01.251      front   8596  18660                  app.frontend_session - Identical keyboard layout (en_us). Auto-mode is 1:1, user-mode is 0.
+   info 2024-12-30 00:55:01.396      front   8596  12076                      desk_rt.d3d_view - Current mode: 1920x1080, 60 Hz, 1 adapters
+   info 2024-12-30 00:55:01.397      front   8596  12076                     base.monitor_info - Monitors found: 1
+   info 2024-12-30 00:55:01.423      front   8596  11196                  app.frontend_session - Remote privacy state: off (no change).
+   info 2024-12-30 00:55:01.424      front   8596  11196                     gui.display_panel - Showing the wait for image dialog.
+   info 2024-12-30 00:55:01.550      front   8596  12076             desk_rt.display_component - Remote resolution changed: Monitor 0 (1366x768)
+   info 2024-12-30 00:55:01.550      front   8596  12076                 desk_rt.d3d_view.port - Initialized (1366x768, X8R8G8B8).
+   info 2024-12-30 00:55:01.632      front   8596  16620                  app.frontend_session - Requesting a new thumbnail.
+   info 2024-12-30 00:55:01.632      front   8596  16620             app.tcp_tunnel.raw_config - Loading config from ad.session.tcp_tunneling.fwd.local.211742098.
+   info 2024-12-30 00:55:01.632      front   8596  16620             app.tcp_tunnel.raw_config - Loading config from ad.session.tcp_tunneling.bwd.local.211742098.
+   info 2024-12-30 00:55:01.632      front   8596  16620                   anymessage.provider - Stored message is invalid (101).
+   info 2024-12-30 00:55:01.746      front   8596  12456                  app.frontend_session - Updated the thumbnail.
+   info 2024-12-30 00:55:01.752      front   8596  12456                            app.roster - Updating the jump list
+   info 2024-12-30 00:55:01.754      front   8596  12456                  os_win.jump_list_mgr - 0 items found
+   info 2024-12-30 00:55:03.472      front   8596  11196                  app.frontend_session - The user has requested a connection quit.
+   info 2024-12-30 00:55:03.514      front   8596  11196                   anymessage.provider - Stored message is invalid (0).
+   info 2024-12-30 00:55:03.514      front   8596  11196                   anymessage.provider - Stored message is invalid (10).
+   info 2024-12-30 00:55:03.514      front   8596  11196                   anymessage.provider - Stored message is invalid (11).
+   info 2024-12-30 00:55:03.514      front   8596  11196                   anymessage.provider - Stored message is invalid (12).
+   info 2024-12-30 00:55:03.514      front   8596  11196                   anymessage.provider - Stored message is invalid (13).
+   info 2024-12-30 00:55:03.514      front   8596  11196                   anymessage.provider - Stored message is invalid (1).
+   info 2024-12-30 00:55:03.514      front   8596  11196                   anymessage.provider - Stored message is invalid (20).
+   info 2024-12-30 00:55:03.514      front   8596  11196                   anymessage.provider - Stored message is invalid (21).
+   info 2024-12-30 00:55:03.514      front   8596  11196                   anymessage.provider - Stored message is invalid (22).
+   info 2024-12-30 00:55:03.514      front   8596  11196                   anymessage.provider - Stored message is invalid (23).
+   info 2024-12-30 00:55:03.548      front   8596  11196                      win_app.frontend - Disallowing Google Chrome offer (negative check result).
+   info 2024-12-30 00:55:03.550      front   8596  15112                  app.frontend_session - Stopping session.
+   info 2024-12-30 00:55:03.593      front   8596  15112               audio.core_audio_render - Cleaning up.
+   info 2024-12-30 00:55:03.607      front   8596  15112             desk_rt.display_component - Stopping objects.
+   info 2024-12-30 00:55:03.625      front   8596  15112                  app.frontend_session - Session stopped.
+   info 2024-12-30 00:55:03.641       ctrl  18692  12068                        ad_app.control - Session count: (0, 0)
+   info 2024-12-30 00:55:03.641       ctrl  18692  12068                       clipbrd.capture - Unregistered clipboard notification.
+   info 2024-12-30 00:55:03.641       ctrl  18692  12068                    app.ctrl_clip_comp - Terminated.
+   info 2024-12-30 00:55:03.642      front   8596  15112                          app.frontend - Stopping to monitor client 211742098.
+   info 2024-12-30 00:55:03.642      front   8596  15112                  app.frontend_session - Deleting session.
+warning 2024-12-30 00:55:03.676      front   8596  11196                          account_info - Could not read account info from config.
+   info 2024-12-30 00:55:03.676      front   8596  11196                   anymessage.provider - Stored message is invalid (102).
+  error 2024-12-30 00:55:03.686      front   8596  15112                      desk_rt.d3d_view - Refcount mismatch in d3d (1).
+   info 2024-12-30 00:55:03.687      front   8596  15112                 desk_rt.d3d_view.port - Deleted
+   info 2024-12-30 00:55:03.699      front   8596  15112                          desk_rt.view - View deleted.
+   info 2024-12-30 00:55:03.699      front   8596  15112              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2024-12-30 00:55:03.699      front   8596  15112                      win_app.frontend - Session count: 0
+   info 2024-12-30 00:55:05.025      front   8596  11196                          wgf.msg_loop - Received quit message.
+   info 2024-12-30 00:55:05.025      front   8596  15112                      win_app.frontend - Frontend is shutting down.
+   info 2024-12-30 00:55:05.025      front   8596  15112                      win_app.frontend - Frontend shutdown.
+   info 2024-12-30 00:55:05.025      front   8596  15112                      win_app.frontend - Frontend terminated.
+   info 2024-12-30 00:55:05.025      front   8596  11196                      win_app.frontend - Terminating.
+   info 2024-12-30 00:55:05.041      front   8596  11196              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2024-12-30 00:55:05.041      front   8596  11196                                  main - Terminated.
